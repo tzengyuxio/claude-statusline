@@ -2,9 +2,9 @@
 
 給 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) 用的雙行狀態列。只顯示有用的，其餘省略。
 
-[English](README.md)
-
 ![screenshot](screenshot.png)
+
+[English](README.md) | **繁體中文**
 
 ## 安裝
 

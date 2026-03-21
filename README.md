@@ -2,9 +2,9 @@
 
 A two-line status line for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Shows what matters, skips what doesn't.
 
-[繁體中文](README.zh-TW.md)
-
 ![screenshot](screenshot.png)
+
+**English** | [繁體中文](README.zh-TW.md)
 
 ## Installation
 
