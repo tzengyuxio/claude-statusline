@@ -4,7 +4,7 @@ A two-line status line for [Claude Code](https://docs.anthropic.com/en/docs/clau
 
 [繁體中文](README.zh-TW.md)
 
-<!-- TODO: add screenshot -->
+![screenshot](screenshot.png)
 
 ## Installation
 

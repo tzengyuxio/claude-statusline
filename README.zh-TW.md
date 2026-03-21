@@ -4,7 +4,7 @@
 
 [English](README.md)
 
-<!-- TODO: add screenshot -->
+![screenshot](screenshot.png)
 
 ## 安裝
 
